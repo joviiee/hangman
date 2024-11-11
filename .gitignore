@@ -1,0 +1,7 @@
+# gitignore
+
+# test files
+_test/
+
+#compiled python files
+__pycache__/
